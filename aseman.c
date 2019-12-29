@@ -13,3 +13,6 @@ for(i=1; i<=x ; i++)
 			count++;
 	}
 	
+}
+		printf("%d", count);
+}
